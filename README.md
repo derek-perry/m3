@@ -11,7 +11,7 @@ Game Overview:
 
 Puzzle Game
 
-Standard Match 3 - but with minimal distractions. Just play match 3 the way it was intended.
+Standard Match 3 - but with minimal distractions. Play match 3 the way it was intended.
 
 ___________
 
