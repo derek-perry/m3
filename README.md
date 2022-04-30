@@ -3,7 +3,11 @@ Minimal Match 3
 
 [Game; Game Tech, Game Design]
 
-Creator Website: https://dp.design
+Game Website: https://dp.design/m3
+
+Game Privacy Policy: https://dp.design/m3/privacy
+
+Creator/Developer Website: https://dp.design
 
 ___________
 
