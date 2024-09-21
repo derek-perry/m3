@@ -1,5 +1,7 @@
 # Minimal Match 3 _(m3)_
-### A Match 3 Puzzle Arcade Game for Mobile and PC – but with minimal distractions. Play match 3 the way it was intended.
+**A Match 3 Puzzle Arcade Game for Mobile and PC – but with minimal distractions. Play match 3 the way it was intended.**
+
+_(This repository contains the game Minimal Match 3.)_
 _[Game; Game Tech, Game Design]_
 
 **Game Development Started:** April 10, 2022
@@ -8,18 +10,16 @@ _[Game; Game Tech, Game Design]_
 
 ---
 
-### Game Links
-- **Game Website:** [dp.design/m3](https://dp.design/m3 "Visit the main game website for Minimal Match 3 at dp.design/m3")
-- **Game Privacy Policy:** [dp.design/m3/privacy](https://dp.design/m3/privacy "Visit the privacy policy for Minimal Match 3 at dp.design/m3/privacy")
-- **Game License Information:** [dp.design/m3#license](https://dp.design/m3#license "View the game license information for Minimal Match 3 at dp.design/m3#license")
+## Game Links
+- **Game Website:** [derek-perry.com/m3](https://derek-perry.com/m3 "Visit the main game website for Minimal Match 3 at derek-perry.com/m3")
 - **GitHub:** [github.com/derek-perry/m3](https://github.com/derek-perry/m3 "Visit the GitHub for Minimal Match 3 at github.com/derek-perry/m3")
 
 ---
 
-### License Information
+## License Information
 **Minimal Match 3 is licensed under the GNU General Public License v3.0**
 _(View the accompanying LICENSE file for more information on the "GNU General Public License v3.0" license.)_
-If you use [Minimal Match 3’s code](https://github.com/derek-perry/m3 "View Minimal Match 3 by dp.design on GitHub"), please retain the licenses of the files below which were used in the development of Minimal Match 3.
+If you use [Minimal Match 3’s code](https://github.com/derek-perry/m3 "View Minimal Match 3 by derek-perry.com on GitHub"), please retain the licenses of the files below which were used in the development of Minimal Match 3.
 
 **Font Used:**
 - [Poppins](https://github.com/itfoundry/Poppins "View the Poppins font on GitHub") by [Indian Type Foundry](https://github.com/itfoundry) (Copyright 2014-2019 Indian Type Foundry) (SIL Open Font License 1.1)
